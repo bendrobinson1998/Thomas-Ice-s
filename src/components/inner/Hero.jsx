@@ -13,9 +13,8 @@ const Hero = () => {
       </h1>
       <p className="mb-8 leading-relaxed">The family business started way back in the early 1950's when Mr Vincent Urso moved to the United Kingdom from his home country of Sicily.</p>
       <div className="flex justify-center">
-        <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Our Facebook</button>
-        <button className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Book Now</button>
-      </div>
+     <a href="https://www.facebook.com/Thomasices/"><button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Our Facebook</button></a>
+           </div>
     </div>
   </div>
 </section>
